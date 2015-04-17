@@ -1,0 +1,102 @@
+[33mcommit b6988a13e8e15def84a31d48b196f8f2e5758978[m
+Author: zgz <837107613@qq.com>
+Date:   Fri Apr 17 13:12:17 2015 +0800
+
+    & simple
+
+[33mcommit 7dcb8bfebd60315b5fd1e17218715eee05b68d4a[m
+Author: zgz <837107613@qq.com>
+Date:   Fri Apr 17 13:09:32 2015 +0800
+
+    AND simple
+
+[33mcommit 9d59c9dae71515d0e0efb63ec64197e66d8b1815[m
+Author: zgz <837107613@qq.com>
+Date:   Fri Apr 17 13:08:04 2015 +0800
+
+    simple
+
+[33mcommit dc8d2e1d7a10aeca15a29c219425936301620a6a[m
+Author: zgz <837107613@qq.com>
+Date:   Fri Apr 17 13:03:14 2015 +0800
+
+    AND simple
+
+[33mcommit 485ca42b7c7d6422f8869e17c9b669ee78cf12e1[m
+Author: zgz <837107613@qq.com>
+Date:   Fri Apr 17 12:52:57 2015 +0800
+
+    & simple
+
+[33mcommit a60f7214a68d648ccf255a759a9dba2299cf5ecd[m
+Merge: cf1b104 44500c3
+Author: zgz <837107613@qq.com>
+Date:   Fri Apr 17 12:43:58 2015 +0800
+
+    conflict fixed
+
+[33mcommit cf1b104fd7df36a281cbaa4f05724917d21e898a[m
+Author: zgz <837107613@qq.com>
+Date:   Fri Apr 17 12:38:08 2015 +0800
+
+    & simple
+
+[33mcommit 44500c39f400b36c08001d62414b42cdc4d56519[m
+Author: zgz <837107613@qq.com>
+Date:   Fri Apr 17 12:33:13 2015 +0800
+
+    add simple
+
+[33mcommit 2806a26d47f3cdcd5c1ebf7782fd7fae5a708d85[m
+Author: zgz <837107613@qq.com>
+Date:   Fri Apr 17 10:49:45 2015 +0800
+
+    branch test
+
+[33mcommit fd2a4e9c6fde9dac8c879e77694941991be7e6e6[m
+Author: zgz <837107613@qq.com>
+Date:   Fri Apr 17 08:49:15 2015 +0800
+
+    remove test.txt
+
+[33mcommit 2d101cd99605bc9b1969077ac0dd90ae2da65da4[m
+Author: zgz <837107613@qq.com>
+Date:   Fri Apr 17 08:44:33 2015 +0800
+
+    add test.txt
+
+[33mcommit e0256559777915106536645658024b82ab5297e3[m
+Author: zgz <837107613@qq.com>
+Date:   Thu Apr 16 20:13:59 2015 +0800
+
+    git tacks changes
+
+[33mcommit 3556ef2240e668ca41b1eb215b68f7264a61529a[m
+Author: zgz <837107613@qq.com>
+Date:   Thu Apr 16 20:07:27 2015 +0800
+
+    git tracks changes
+
+[33mcommit de2e752f685a53e37f63ffe63b58ba0b19986698[m
+Author: zgz <837107613@qq.com>
+Date:   Thu Apr 16 19:54:44 2015 +0800
+
+    understand how stage work
+
+[33mcommit 491f501f8f0bff9256caa9bc69f3724d6f5d7348[m
+Author: zgz <837107613@qq.com>
+Date:   Thu Apr 16 18:49:20 2015 +0800
+
+    append GPL
+
+[33mcommit 0d3c62ca0da4619c9fd3625433d31f483e4226df[m
+Author: zgz <837107613@qq.com>
+Date:   Thu Apr 16 18:36:12 2015 +0800
+
+    add distributed
+
+[33mcommit 9a0272c8b01a4889665ed1cea09cf3a0ff8344bd[m
+Author: zgz <837107613@qq.com>
+Date:   Thu Apr 16 17:18:59 2015 +0800
+
+    wrote a readmefile
